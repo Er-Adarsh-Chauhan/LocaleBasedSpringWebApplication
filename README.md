@@ -26,6 +26,7 @@ you can apply to your business or company. Which is based on :
 This is main to make our organization as Localization. In other words we can say that our organization is going to be Global. So  we are going to implements these factors in our Application. 
 
 # Quick links
+*   https://github.com/Er-Adarsh-Chauhan/LocaleBasedSpringWebApplication
 *   https://github.com/Er-Adarsh-Chauhan/LocaleBasedSpringWebApplication/blob/master/README.md
 *   https://www.baeldung.com/java-8-localization
 *   https://www.ntu.edu.sg/home/ehchua/programming/java/DateTimeCalendar.html
